@@ -24,3 +24,6 @@ enum {
 
 `http://a.nihatalim.com:8080/api-1.0.0.RELEASE/loto/get?type=SUPER_LOTO&date=20180308`
 
+# Swagger UI 
+
+`http://a.nihatalim.com:8080/api-1.0.0.RELEASE/swagger-ui.html`
